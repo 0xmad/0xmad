@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**0xmad/0xmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages:
+- 💪 TypeScript | 👻 Javascript
+- 💎 Solidity
+- ⚡ Rust
 
-Here are some ideas to get you started:
+#### Frameworks:
+- ⚛️ React | 📱 React Native | 🚧 NextJS
+- 🔥 Apollo/Juniper | ⚡ Actix | ⛽ Diesel
+- 💎 OpenZeppelin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Blockchain:
+- 🚀 Ethereum
+
+#### Tools:
+- 👷‍♂️ Hardhat
+- 📦 Cargo | 📦 npm/yarn
+
+
+#### Libs:
+- 🕸 Ethers
+- ☄️ Effector
+- 💅 Styled Components
+- 🪅 Jest
+- 📕 Storybook
