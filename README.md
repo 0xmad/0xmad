@@ -19,7 +19,7 @@
 - 👷‍♂️ Hardhat
 - 📦 Cargo | 📦 npm/yarn
 - 🐉 Lerna
-
+- 🦾 Github Actions
 
 ### Base practices:
 - 🧪 Test driven development
