@@ -27,7 +27,7 @@
 - 🏃 Continuous integration
 - 🚚 Continuous delivery
 - 👨‍💻 High coding standard
-- 🃏 Pocker planning
+- 🃏 Poker planning
 
 #### Libs:
 - 🕸 Ethers | web3
