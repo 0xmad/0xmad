@@ -3,6 +3,7 @@
 #### Languages:
 - 💪 TypeScript | 👻 Javascript
 - 💎 Solidity
+- 🧬 Circom
 - ⚡ Rust
 
 #### Frameworks:
