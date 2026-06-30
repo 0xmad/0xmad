@@ -16,6 +16,10 @@
       <td>Minimal Anti-Collusion Infrastructure (MACI) is a private, on-chain, voting system.</td>
     </tr>
     <tr>
+      <td nowrap><a href="https://github.com/privacy-ethereum/maci-platform">maci-platform</a></td>
+      <td>MACI Platform - Voting and Funding using MACI</td>
+    </tr>
+    <tr>
       <td nowrap><a href="https://github.com/privacy-ethereum/privacy-precompiles">privacy-precompiles</a></td>
       <td>Poseidon, Groth16, BabyJubJub curve precompiles for Geth client</td>
     </tr>
